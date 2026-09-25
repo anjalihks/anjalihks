@@ -1,7 +1,5 @@
 # Hi, I'm Anjali Yadav 👋
 
-### Software Engineer Trainee @ Cisco | Cloud Security | Cloud-Native | DevOps | SRE
-
 I'm a Software Engineer Trainee at **Cisco**, working in **Cloud Security** with a focus on cloud-native infrastructure, automation, DevOps, and reliability engineering.
 
 I enjoy building **secure, scalable, automated, and production-ready systems** using modern cloud and infrastructure technologies.
